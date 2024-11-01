@@ -1,0 +1,53 @@
+input[type="number"] {
+    height: 31px;
+    line-height: 1;
+    width: 62px;
+}
+
+td.reserv-wait {
+
+    background-color: #fae481 !important;
+    text-align: center;
+
+
+}
+
+td.reserv-conf {
+
+    background-color: #bbfa81 !important;
+    text-align: center;
+
+
+}
+
+td.reserv-empty {
+
+    background-color: #ffffff !important;
+    text-align: center;
+
+
+}
+
+input[type="text"] {
+    height: 25px;
+    line-height: 1;
+    width: 215px;
+}
+
+.bbh-square-wait {
+    height: 20px;
+    width: 100%;
+    background-color: #bbfa81;
+}
+
+.bbh-square-ok {
+    height: 20px;
+    width: 100%;
+    background-color: #fae481;
+}
+
+.bbh-square-no {
+    height: 20px;
+    width: 100%;
+    background-color: #ffffff;
+}

@@ -1,0 +1,86 @@
+th.table-myaccount-page {
+
+    background-color: #d1d1d1;
+    text-align: center;
+    vertical-align: middle;
+
+
+}
+
+button.table-myaccount-page {
+    background-color: #ff39d9;
+    border-color: #8d1375;
+    color: #333333;
+    padding: 16px;
+
+}
+
+button:hover.table-myaccount-page {
+    background-color: #ff00cc;
+    border-color: #aa0589;
+    color: #333333;
+}
+
+td.reserv-wait {
+
+    background-color: #fae481 !important;
+    text-align: center;
+
+
+}
+
+td.reserv-conf {
+
+    background-color: #bbfa81 !important;
+    text-align: center;
+
+
+}
+
+td.reserv-empty {
+
+    background-color: #ffffff !important;
+    text-align: center;
+
+
+}
+
+td.bbh-center {
+
+    text-align: center;
+
+}
+
+td.bbh-course-row {
+
+    text-align: center;
+    background-color: #f2f0f0 !important;
+    vertical-align: middle;
+
+}
+
+hr.bbh-separator {
+
+    height: 12px;
+    vertical-align: middle;
+
+}
+
+td.bbh-separator {
+
+vertical-align: middle !important;
+
+}
+
+input[type="number"] {
+    height: 31px;
+    line-height: 1;
+    width: 62px;
+}
+
+input[type="text"] {
+    height: 31px;
+    line-height: 1;
+    width: 160px;
+    padding: 20px;
+}
